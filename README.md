@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hey, I'm Uros 👋
 
-<!--
-**lolipopman1337-ux/lolipopman1337-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Automation developer & AI builder based in Da Nang, Vietnam.
 
-Here are some ideas to get you started:
+I build Telegram bots, n8n workflows, and AI agents that work in production.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+**What I build:**
+- 🤖 Telegram bots (AI assistants, digest bots, lead qualifiers)
+- ⚙️ n8n automations (social media, CRM, data pipelines)
+- 🧠 AI agents (GPT-4o, Claude, voice-to-text)
+- 📊 Business automation (autoposter, monitoring, scheduling)
+
+**Stack:** n8n · OpenAI · Telegram Bot API · Supabase · Docker
+
+---
+
+**Open for freelance** → Telegram: @choppacrypto
