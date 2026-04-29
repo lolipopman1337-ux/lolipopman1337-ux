@@ -28,7 +28,8 @@ I treat reliability as a feature: every pipeline has explicit fallbacks, an audi
 ### Featured
 
 - **[n8n-multi-agent-orchestrator](https://github.com/lolipopman1337-ux/n8n-multi-agent-orchestrator)** — six-workflow Telegram hub: LLM classifier routes inbound messages to specialised sub-agents (Action / Media / Commands / Qualifier). Uses LangChain structured output, `executeWorkflow` chaining, and a single-row audit trail in Postgres.
-- **[n8n-automation-templates](https://github.com/lolipopman1337-ux/n8n-automation-templates)** — five production-tested templates: the orchestrator above plus voice-to-post pipelines, a global error notifier, and a dead-man-switch health monitor. Sanitised exports with per-folder READMEs.
+- **[bot-monitoring-patterns](https://github.com/lolipopman1337-ux/bot-monitoring-patterns)** — production patterns for keeping a fleet of n8n workflows / Telegram bots / cron jobs honest. Dead-man switch, monitor-of-monitors, reactive error router, legitimate-inactivity whitelist. Pattern docs with thresholds and pitfalls + reference n8n workflow.
+- **[n8n-automation-templates](https://github.com/lolipopman1337-ux/n8n-automation-templates)** — five production-tested templates: orchestrator + voice-to-post pipelines + global error notifier + dead-man-switch health monitor. Sanitised exports with per-folder READMEs.
 - *More public projects coming — currently extracting and sanitising from a 60+ workflow production stack.*
 
 ---
